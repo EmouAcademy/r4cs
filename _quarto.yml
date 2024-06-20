@@ -14,7 +14,7 @@ book:
       This book was built with <a href="https://quarto.org/">Quarto</a>.
   cover-image: cover.jpg
   favicon: cover.jpg
-  site-url: https://emunkhtsetseg.netlify.app/research-works.html
+  site-url: https://r4cs.netlify.app/
   repo-url: https://github.com/EmouAcademy/r4cs
   repo-branch: main
   repo-actions: [edit, issue]
